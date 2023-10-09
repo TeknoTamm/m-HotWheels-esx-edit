@@ -4,7 +4,7 @@
 
 ![foto1](https://media.discordapp.net/attachments/1019726083827961956/1086370402747568200/hotwheels.png)
 
-# m-HotWheels script for QB-Core
+# m-HotWheels script for QB-Core to  ESX edit
 
 - Thank you very much for downloading this product! Hope you have fun!
 - If you are intested in recieving updates join the community on **[Discord](https://discord.gg/marcinhu)**! |
